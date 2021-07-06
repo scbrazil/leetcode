@@ -21,7 +21,7 @@ Example 4:
   Input: s = "ac"
   Output: "a"
 
-This must account for both even and odd strings.
+This must account for both even and odd strings.`
 
 */
 
